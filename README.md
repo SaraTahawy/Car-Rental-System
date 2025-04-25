@@ -2,7 +2,7 @@
 
 ![Project Screenshot](./images/overview.png)
 
-#ER Diagram of Car Rental System  🚘
+# ER Diagram of Car Rental System  🚘
 ![ER Diagram Screenshot](./images/ER-Diagram.png)
 
 ## 📌 Overview
